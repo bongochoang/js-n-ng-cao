@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
+
         const bongda={
             team1 :'Bayern Munich',
             team2 :'Borrussia Dortmund',
@@ -77,9 +68,5 @@ printGoals(...bongda.scored);
 //7.
 team1 < team2&&console.log('Team 1 is more Likely To Win');
 
-team1 > team2&&console.log('Team 2 is more Likely To Win');
+team1 > team2&&console.log('Team 2 is more Likely To Winn');
 
-
-        </script>
-</body>
-</html>
